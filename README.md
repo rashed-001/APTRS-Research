@@ -69,17 +69,5 @@ scenarios. Check each script's output and the configuration in `config.py`
 before launching the full sequence. Results are written to the `results/`
 directory relative to the experiment directory.
 
-## Files not included
 
-The following local files were intentionally left out of the public
-repository:
 
-- `main_thesis_report_2024.pdf`
-- `new_manuscript.pdf`
-- `rejected_one.pdf`
-- `APTRS_Code.zip`
-
-Python virtual environments (`.venv/`) and interpreter caches
-(`__pycache__/`, `*.pyc`, and `*.pyo`) are also excluded. Recreate an
-environment using the requirements file rather than committing installed
-packages.
