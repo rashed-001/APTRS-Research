@@ -1,0 +1,6 @@
+scenario,seed,method,success_rate,avg_steps,invalid_rate,avg_reward
+tiny,0,random,0.0,50.0,0.14,0.0
+tiny,0,shortest_path,0.0,50.0,0.0,-50.0
+tiny,0,vanilla_dqn,0.0,50.0,1.0,-50.0
+tiny,0,aptrs,0.0,50.0,0.0,-50.0
+tiny,0,ppo,0.0,50.0,0.5,-50.0

@@ -1,0 +1,10 @@
+# Python environments and generated interpreter files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local documents and archive intentionally excluded from the repository
+/main_thesis_report_2024.pdf
+/new_manuscript.pdf
+/rejected_one.pdf
+/APTRS_Code.zip
